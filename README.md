@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvanMinev9
+- 👋 Hi, I’m Ivan Minev
 - 👀 I’m interested in ... Web Dev / Full Stack
 - 🌱 I’m currently learning ...JS / REACT
 - 💞️ I’m looking to collaborate on ...
